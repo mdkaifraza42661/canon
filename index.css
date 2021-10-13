@@ -861,245 +861,8 @@ button {
 }
 
 /* responsive */
-@media screen and (max-width:1200px){
-    /* .child1navbar li {
-        margin: 25px 13px;
-    }
-    .child2navbar i{
-        margin: 12px;
-    }
-    .second1navbar li{
-        padding: 8px;
-        font-size: 16px;
-        line-height: 40px;
-    }
-    .thirdnavbarchild li{
-        padding: 13px;
-    }
-    .box2{
-        margin: 0px 18px;
-    }
-    .box3{
-        margin: 0px 8px;
-    }
-    .hed h1{
-        font-size: 38px;
-    }
-    .secondbox2{
-        margin: 0px 17px;
-    }
-    .header1 {
-        margin-top: 174px;
-    } */
-    
-/* } */
-/* @media screen and (max-width:800px){ */
-    /* .child1navbar{
-        display: none;
-    }
-    .childnavbar p{
-        margin-left: 347px;
-    }
-    .secondnavbar{
-        display: none;
-    }
-    .second1navbar{
-        display: none;
-    }
-    .child2navbar{
-        float: none;
-    }
-    .child2navbar input{
-        display: none;
-    }
-    .name{
-        font-size:29px;
-    }
-    .divide{
-        display: none;
-    }
-    .child2navbar i{
-        margin:8px;
-    }
-    .fa-id-badge{
-        display: none;
-    }
-    .section{
-        height: 511px;
-    }
- 
-    .text{
-         margin-left: 22px;
-        font-size: 18px;
-    }
-    button{
-        margin-left:-4px;
-        padding: 14px 21px;
-    }
-    .header1{
-        margin-top: 231px;
-        margin-left: 19px;
-    }
-    .image{
-        height: 513px;
-    }
-    
-    .image img{
-        margin-top: 10px;
-        height: 493px;
-    }
-    .under{
-        display: none;
-    }
-    .thirdnavbarchild{
-        margin:0;
-        margin-left: -72px;
-    }
-    .thirdnavbarchild li{
-        font-size: 20px;
-    }
-   
-    .childproduct{
-        margin-top: -20px;
-        width: 100%;
-    }
-    .box1{
-        width: 45%;
-       
-    }
-    .box1 img{
-        width: 100%;
-        height: 200px;
-    }
-    .box3,.box4{
-        display: none;
-    }
-    .box2{
-        width: 50%;
-        float: right;
-        height: 200px;
-        
-    }
-    .box2 img{
-        height: 200px;
-        margin-top: -163px;
-        padding-left: 15px;
-    } 
-    .product{
-        width: 100%;
-        height: 594px;
-    }
-    .secondbox1{
-        width: 100%;
-        height: 430px;
-    }
-    .secondbox1 img{
-        height:297px;
-    }
-    .secondbox3,.secondbox4{
-        display: none;
-    }
-    .secondimg1{
-        width: 100%;
-       
-    }
-    .thirdimg1{
-        float: none;
-        width: 100%;
-        margin-top: 306px;
-    }
-    .ready{
-        margin-top: 658px;
-    }
-    .latter{
-        margin-top: 90px;
-    }
-    .footer1{
-        float: none;
-        height: auto;
-        border-bottom: 1px solid ;
-        width: 100%;
-        margin-top: 20px;
-    }
-    .footer2{
-        float: none;
-        height: auto;
-        border-bottom: 1px solid grey;
-        width: 100%;
-        margin-top: 20px;
-    }
-    .footer3{
-        float: none;
-        height: auto;
-        border-bottom: 1px solid grey;
-        width: 100%;
-        margin-top: 20px;
-    }
-    .footer4{
-        float: none;
-        height: auto;
-        border-bottom: 1px solid  #323232;
-        
-        width: 100%;
-        margin-top: 20px;
-    }
-    .footer5{
-        float: none;
-        height: auto;
-        width: 100%;
-        margin-top: 97px;
-        margin-left: 159px;
-    }
-    .button2 {
-        margin-left: 60px;
-    }
-    .footer5 h1{
-        margin-left: 20px;
-    }
 
-    .icon1{
-        margin-top: 17px;
-        width: 38%;
-        margin-left: 54px;
-        padding: 10px;
-    }
-    .secondfooter{
-        margin-top: 266px;
-    }
-    .seconderfooterchild{
-        height: 125px;
-        width: 100%;
-    }
-   
-    .footer1 li{
-        display: none;
     
-    }
-    .footer2 li{
-        display: none;
-        float: none;
-    }
-    .footer3 li{
-        display: none;
-        float: none;
-    }
-    .footer3 li{
-        display: none;
-        float: none;
-    }
-    .footer4 li{
-        display: none;
-        float: none;
-    }
-    .footer5 li{
-        display: none;
-        float: none;
-    }
-    .copy{
-        margin-left: 256px;
-    }
-
-} */
 
 @media screen and (max-width:756px){
     .child1navbar{
@@ -1302,7 +1065,7 @@ button {
         margin-left: 256px;
     }
 
-}
+
 
 @media screen and (max-width:576px){
     .child1navbar{
@@ -1390,7 +1153,7 @@ button {
         width: 45%;
     }
     .box1 img{
-        width: auto;
+        width: 450px;
         height: 329px;
     }
     .box2,.box3,.box4{
@@ -1505,7 +1268,8 @@ button {
         float: none;
     }
     .copy{
-        margin-left: 143px;
+        margin: auto;
+        text-align: center;
     }
     
 }
